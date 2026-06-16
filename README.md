@@ -12,4 +12,4 @@ Instructions
 7.Close your speaker box (Shell and panel) by 6mmM3screws tight.
 8:Connect left and right crossover to left and right channel on the AMP respectively.
 14:Power the AMP by the recommanded power supply(Relate to the store you buy it from).
-15:Connect 3.5mmAUX on the AMP with your sound source and ENJOY!
+15:Connect AUX from the AMP to your sound source and ENJOY!
